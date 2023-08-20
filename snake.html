@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport", content="width=device-width, initial-scale=1.0">
+        <title>cssnakegame</title>
+        <link rel="stylesheet" href="snake.css">
+        <script src="snake.js"></script>
+    </head>
+    <body onload="varsQ()" >
+        <h2 style="padding-top:30px;font-size: 40px; font-family: 'Courier Prime', monospace; color: #ff00ff; text-shadow: -2px 0 #00ff00, 2px 0 #0000ff; animation: glitch 2s infinite; ">
+            CSSnake
+          </h2>
+          
+          <style>
+          @keyframes glitch {
+            0% {
+              text-shadow: -2px 0 #ff0000, 2px 0 #00ff00;
+            }
+            25% {
+              text-shadow: -2px 0 #00ff00, 2px 0 #0000ff;
+            }
+            50% {
+              text-shadow: -2px 0 #0000ff, 2px 0 #ff0000;
+            }
+            75% {
+              text-shadow: -2px 0 #ff0000, 2px 0 #00ff00;
+            }
+            100% {
+              text-shadow: -2px 0 #00ff00, 2px 0 #0000ff;
+            }
+          }
+          </style>
+          <canvas id="board"></canvas>
+
+
+            
+    </body>
+</html>

@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Ubuntu&display=swap');
+
+
+body {
+    font-family: 'Ubuntu', sans-serif;;
+    color: white;
+    background-color: #23153c;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    text-justify:auto;
+}
+
