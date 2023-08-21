@@ -1,4 +1,4 @@
-# NOT DONE
+# NOT DONE! DO NOT PLAY YET!
 
 
 # JSnake
