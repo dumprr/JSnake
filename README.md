@@ -1,3 +1,6 @@
+# NOT DONE
+
+
 # JSnake
 The iconic "Snake" game made in HTML
 
