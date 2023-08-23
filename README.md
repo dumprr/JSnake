@@ -17,3 +17,9 @@ It's very simple and plain.
 ## Usage
 
 Download the ZIP file of the repository and launch index.html lol that's it
+
+## Credits
+
+[This Video](https://www.youtube.com/watch?v=pHFtOYU-a20)
+
+Some W3schools ad StackOverflow too lol.
